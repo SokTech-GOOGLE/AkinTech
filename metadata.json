@@ -1,0 +1,8 @@
+{
+  "name": "AkinTech: The Global Genius Nexus",
+  "description": "A comprehensive tech ecosystem featuring AI tools, online learning, mobile utility vaults (FRP), scholarship programs, and global social networking.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
